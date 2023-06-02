@@ -1,4 +1,11 @@
+<style>
+    img{
+        display: block;
+        margin: auto;
+        width: 50%;
+    }
+</style>
 * Aprendendo Git
 * Fabrício Carvalho
-<link href="doc/estilos.css" rel="stylesheet">
+    
 <img src="doc/excel_logo.png">
