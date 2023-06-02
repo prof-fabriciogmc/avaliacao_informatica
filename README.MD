@@ -2,6 +2,5 @@
 <h2> Fabrício Carvalho </h2>
 
 
-<span style="display: block; margin:auto; width:50%">
-<img src="doc/excel_logo.png">
-</span>   
+<img align="center" width="50%" src="doc/excel_logo.png">
+ 
